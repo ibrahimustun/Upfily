@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/composables/usegoals.ts","./src/composables/uselocalstorage.ts","./src/types/goal.ts","./src/app.vue","./src/components/goalcard.vue","./src/components/goalform.vue","./src/components/header.vue","./src/components/helloworld.vue","./src/components/progresschart.vue"],"version":"5.8.3"}
